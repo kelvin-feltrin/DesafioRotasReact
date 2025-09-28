@@ -1,6 +1,6 @@
 # ReactRoutesChallenge
 
-* Leia em [Português]()
+* Leia em [Português](https://github.com/kelvin-feltrin/DesafioRotasReact/blob/main/README-pt.md)
 
 ## About the project
 The "ReactRoutesChallenge" is a project about a website that lists products. It's a React project to practice concepts such as creating components, using react routes and following a template on Figma.
