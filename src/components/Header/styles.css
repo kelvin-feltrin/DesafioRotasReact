@@ -1,0 +1,32 @@
+.menu-header {
+    height: 80px;
+    font-size: 16px;
+    color: var(--color-font-secondary);
+    background-color: var(--color-bg-tertiary);
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+img {
+    height: 30px;
+    width: 30px;
+}
+
+.header-content-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar {
+    display: flex;
+    gap: 20px;
+}
+
+.menu-active {
+    font-weight: 700;
+}

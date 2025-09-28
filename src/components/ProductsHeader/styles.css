@@ -1,0 +1,12 @@
+.product-header {
+    height: 80px;
+    font-size: 16px;
+    color: var(--color-font-primary);
+    background-color: var(--color-bg-secondary);
+    display: flex;
+    align-items: center;
+}
+
+.nav-content-container {
+    display: flex;
+}
